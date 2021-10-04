@@ -1,5 +1,6 @@
 ![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
 
+<h1> Thanks to <a href="https://github.com/kamranahmedse"> Karan Ahmed </a> for such simple explanations. This is just a fork to further organize this cheatsheet more through further examples.
 ***
 
 <p align="center">
